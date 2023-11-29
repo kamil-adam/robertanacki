@@ -34,3 +34,11 @@ plugins:
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
+
+# Other
+
+title: "***** ***"
+tagline: "***** ***"
+description: "***** ***"
+headings_form_titles:
+  enabled: false
