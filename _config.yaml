@@ -74,6 +74,9 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
+# Themes: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#themes
+
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Plugins: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins
 plugins:
